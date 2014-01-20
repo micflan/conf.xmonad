@@ -21,3 +21,7 @@ git clone git@github.com:micflan/conf.xmonad.git ~/.xmonad
 ln -s ~/.xmonad/.xmobarrc ~/.xmobarrc
 ln -s ~/.xmonad/.xsession ~/.xsession
 ```
+
+---
+
+A lot of this comes from http://www.haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen's_Configuration
