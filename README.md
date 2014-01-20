@@ -8,7 +8,7 @@ sudo cabal update; sudo cabal install xmonad-extras
 
 2. Install extras: trayer, xscreensaver, scrot (for screenshots)
 ```bash
-apt-get install trayer xscreensaver scrot
+sudo apt-get install trayer xscreensaver scrot
 ```
 
 3. Checkout these files to ~/.xmonad
@@ -20,4 +20,4 @@ git clone git@github.com:micflan/conf.xmonad.git ~/.xmonad
 ```bash
 ln -s ~/.xmonad/.xmobarrc ~/.xmobarrc
 ln -s ~/.xmonad/.xsession ~/.xsession
-``
+```
