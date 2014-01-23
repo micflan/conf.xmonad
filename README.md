@@ -13,7 +13,7 @@ sudo apt-get install trayer xscreensaver scrot
 
 3. Checkout these files to ~/.xmonad
 ```bash
-git clone git@github.com:micflan/conf.xmonad.git ~/.xmonad
+git clone https://github.com/micflan/conf.xmonad.git ~/.xmonad
 ```
 
 4. Create symlinks
